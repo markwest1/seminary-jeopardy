@@ -14,12 +14,13 @@ import (
 //go:embed data
 var content embed.FS
 
+const port = "8080"
+
 func main() {
 	http.HandleFunc("/listseasons.php", listSeasons)
 	http.HandleFunc("/showseason.php", showSeason)
 	http.HandleFunc("/showgame.php", showGame)
 
-	port := "8080"
 	log.Printf("Listening on port %s", port)
 	err := http.ListenAndServe(":"+port, nil)
 	if err != nil {
@@ -34,7 +35,7 @@ func listSeasons(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	b, err := content.ReadFile("data/listseasons.php")
+	b, err := readFileReplacingHost("data/listseasons.php")
 	if err != nil {
 		log.Printf("ERROR: %v", err)
 	}
@@ -70,7 +71,7 @@ func showSeason(w http.ResponseWriter, r *http.Request) {
 				} else {
 					log.Printf("GET %s numeric season: %d", r.RequestURI, season)
 					if season > -1 {
-						b, err := content.ReadFile(fmt.Sprintf("data/seasons/season_%02d.php", season))
+						b, err := readFileReplacingHost(fmt.Sprintf("data/seasons/season_%02d.php", season))
 						if err != nil {
 							log.Printf("ERROR: season %02d not found", season)
 							http.Error(w, fmt.Sprintf("season %d not found", season), http.StatusNotFound)
@@ -129,7 +130,7 @@ func showGame(w http.ResponseWriter, r *http.Request) {
 							http.Error(w, fmt.Sprintf("game %d file not found", gameId), http.StatusNotFound)
 							return
 						}
-						b, err := content.ReadFile(path)
+						b, err := readFileReplacingHost(path)
 						if err != nil {
 							log.Printf("ERROR: opening file %q: %v", path, err)
 							http.Error(w, "", http.StatusInternalServerError)
@@ -197,4 +198,15 @@ func fillGameIdPathMap() {
 		return
 	}
 	log.Printf("len(gameIdPathMap) = %d", len(gameIdPathMap))
+}
+
+var replaceHostRegex *regexp.Regexp = regexp.MustCompile(`href=\"https:\/\/j-archive.com\/`)
+
+func readFileReplacingHost(filename string) ([]byte, error) {
+	b, err := content.ReadFile(filename)
+	if err != nil {
+		return nil, err
+	}
+
+	return replaceHostRegex.ReplaceAll(b, []byte(fmt.Sprintf(`href="http://localhost:%s/`, port))), nil
 }
