@@ -66,19 +66,24 @@ func showSeason(w http.ResponseWriter, r *http.Request) {
 				if e != nil {
 					nonNumeric = v[0]
 					log.Printf("GET %s non-numeric season: %q", r.RequestURI, nonNumeric)
-					http.Error(w, "season "+nonNumeric+" not found", http.StatusNotFound)
-					return
+					b, err := readFileReplacingHost(fmt.Sprintf("data/seasons/season_%s.php", v[0]))
+					if err != nil {
+						http.Error(w, "season "+v[0]+" not found", http.StatusNotFound)
+					}
+					sb.Write(b)
 				} else {
 					log.Printf("GET %s numeric season: %d", r.RequestURI, season)
-					if season > -1 {
-						b, err := readFileReplacingHost(fmt.Sprintf("data/seasons/season_%02d.php", season))
-						if err != nil {
-							log.Printf("ERROR: season %02d not found", season)
-							http.Error(w, fmt.Sprintf("season %d not found", season), http.StatusNotFound)
-							return
-						}
-						sb.Write(b)
+					if season <= 0 {
+						http.Error(w, "season "+v[0]+" not found", http.StatusNotFound)
+						return
 					}
+					b, err := readFileReplacingHost(fmt.Sprintf("data/seasons/season_%02d.php", season))
+					if err != nil {
+						log.Printf("ERROR: season %02d not found", season)
+						http.Error(w, fmt.Sprintf("season %d not found", season), http.StatusNotFound)
+						return
+					}
+					sb.Write(b)
 				}
 			} else {
 				http.Error(w, "", http.StatusNotFound)
