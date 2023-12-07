@@ -55,42 +55,42 @@
     <td class="category">
       
 <table>
-  <tr><td class="category_name">SCRIPTURE PASSAGES 1</td></tr>
-  <tr><td class="category_comments">Clue: key phrase, Answer: chapter and verse.</td></tr>
+  <tr><td class="category_name">PASSAGES</td></tr>
+  <tr><td class="category_comments">Identify a scripture passage from a key phrase.</td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">KEY PHRASES 1</td></tr>
-  <tr><td class="category_comments"></td>Clue: chapter and verse, Answer: key phrase.</tr>
+  <tr><td class="category_name">KEY PHRASES</td></tr>
+  <tr><td class="category_comments">Identify a key phrase from a scripture reference.</td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name"></td>GEOGRAPHY 1</tr>
+  <tr><td class="category_name">GRAB BAG</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">BHS STUDENTS 1</td></tr>
+  <tr><td class="category_name">PLACES</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">BHS TEACHERS 1</td></tr>
+  <tr><td class="category_name">PEOPLE</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">APOSTLES 1</td></tr>
+  <tr><td class="category_name">FILL IN THE BLANK</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
@@ -112,8 +112,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_1_1" class="clue_text">“Let your light so shine before men.”</td>
-    <td id="clue_J_1_1_r" class="clue_text" style="display:none;"><em class="correct_response">Matthew 5:14-16</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_1_1" class="clue_text">"If any of you lack wisdom, let him ask of God."</td>
+    <td id="clue_J_1_1_r" class="clue_text" style="display:none;"><em class="correct_response">James 1:5-6</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -133,8 +133,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_2_1" class="clue_text">Matthew 11:28–30</td>
-    <td id="clue_J_2_1_r" class="clue_text" style="display:none;"><em class="correct_response">“Come unto me, all ye that labour and are heavy laden, and I will give you rest.”</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_2_1" class="clue_text">Revelation 20:12</td>
+    <td id="clue_J_2_1_r" class="clue_text" style="display:none;"><em class="correct_response">"And the dead were judged … according to their works."</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -154,8 +154,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_3_1" class="clue_text">The chief apostle in the New Testament</td>
-    <td id="clue_J_3_1_r" class="clue_text" style="display:none;"><em class="correct_response">Simon Peter</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_3_1" class="clue_text">The New Testament name for letters written by various Church leaders to the Saints.</td>
+    <td id="clue_J_3_1_r" class="clue_text" style="display:none;"><em class="correct_response">Epistles</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -175,8 +175,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_4_1" class="clue_text">Called New Towne when Harvard College was established, the city soon got this name</td>
-    <td id="clue_J_4_1_r" class="clue_text" style="display:none;">(Ken: [*], Massachusetts, that is correct.)<br /><br /><em class="correct_response">Cambridge</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_4_1" class="clue_text">One of the seven churches in Asia Minor, also a city in Pennsylvania.</td>
+    <td id="clue_J_4_1_r" class="clue_text" style="display:none;"><br /><br /><em class="correct_response">Philadelphia</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -196,8 +196,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_5_1" class="clue_text">In 1987 the album "Ride the Lightning" by Metallica achieved this status of 500,000 copies sold</td>
-    <td id="clue_J_5_1_r" class="clue_text" style="display:none;">(Aaron: What's platinum?)<br /><br /><em class="correct_response">gold</em><br /><br /><table width="100%"><tr><td class="right">Emily</td><td class="wrong">Aaron</td></tr></table></td>
+    <td id="clue_J_5_1" class="clue_text">Christian tradition has held that James is the half-brother of this person.</td>
+    <td id="clue_J_5_1_r" class="clue_text" style="display:none;"><br /><br /><em class="correct_response">Jesus</em><br /><br /><table width="100%"><tr><td class="right">Emily</td><td class="wrong">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -217,8 +217,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_6_1" class="clue_text">It's a long rope with a loop on one end, used to rope cattle</td>
-    <td id="clue_J_6_1_r" class="clue_text" style="display:none;"><em class="correct_response">a lasso</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_6_1" class="clue_text">"If any of you lack ______, let him ask of God."</td>
+    <td id="clue_J_6_1_r" class="clue_text" style="display:none;"><em class="correct_response">wisdom</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -240,8 +240,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_1_2" class="clue_text">That translucent pink egg you made is amazing! I think that will sell for $18.5 million at a 2007 auction at Christie's one day!</td>
-    <td id="clue_J_1_2_r" class="clue_text" style="display:none;"><em class="correct_response">Fabergé</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_1_2" class="clue_text">"As in Adam all die, even so in Christ shall all be made alive."</td>
+    <td id="clue_J_1_2_r" class="clue_text" style="display:none;"><em class="correct_response">1 Corinthians 15:20-22</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -261,8 +261,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_2_2" class="clue_text">Look out below! It's Colorado's NHL team!</td>
-    <td id="clue_J_2_2_r" class="clue_text" style="display:none;"><em class="correct_response">the Avalanche</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_2_2" class="clue_text">James 2:17-18</td>
+    <td id="clue_J_2_2_r" class="clue_text" style="display:none;"><em class="correct_response">"Faith, if it hath not works, is dead."</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -282,8 +282,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_3_2" class="clue_text">Slaughterhouses don't have to ask &amp; pay for USDA grades for this meat, be it in chop, loin or rib form</td>
-    <td id="clue_J_3_2_r" class="clue_text" style="display:none;"><em class="correct_response">pork</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_3_2" class="clue_text">The epistles of Paul are arranged in this order.</td>
+    <td id="clue_J_3_2_r" class="clue_text" style="display:none;"><em class="correct_response">Size or Length</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -303,8 +303,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_4_2" class="clue_text">1990 was the end for this country whose districts included Neubrandenburg, Leipzig &amp; Karl-Marx-Stadt</td>
-    <td id="clue_J_4_2_r" class="clue_text" style="display:none;"><em class="correct_response">East Germany</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_4_2" class="clue_text">Saul saw a vision of Christ on the road to this city.</td>
+    <td id="clue_J_4_2_r" class="clue_text" style="display:none;"><em class="correct_response">Damascus</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -324,8 +324,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_5_2" class="clue_text">Champagne is generally fermented in <a href="https://www.j-archive.com/media/2023-11-08_J_21.jpg" target="_blank">vats</a> of this alliterative alloy</td>
-    <td id="clue_J_5_2_r" class="clue_text" style="display:none;"><em class="correct_response">stainless steel</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_5_2" class="clue_text">He wrote 14 of the 21 epistles included in the New Testament.</td>
+    <td id="clue_J_5_2_r" class="clue_text" style="display:none;"><em class="correct_response">Paul or Saul</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -345,8 +345,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_6_2" class="clue_text">How low can you go? Perhaps to this place on the border of heaven or hell</td>
-    <td id="clue_J_6_2_r" class="clue_text" style="display:none;"><em class="correct_response">limbo</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_6_2" class="clue_text">"Faith, if it hath not works, is ____."</td>
+    <td id="clue_J_6_2_r" class="clue_text" style="display:none;"><em class="correct_response">dead</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -368,8 +368,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_1_3" class="clue_text">Loved your Mar. 4, 1841 speech, despite the weather! 1 hour, 45 minutes of awesome! Now it's clear skies for your presidency!</td>
-    <td id="clue_J_1_3_r" class="clue_text" style="display:none;"><em class="correct_response">William Henry Harrison</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_1_3" class="clue_text">"Neither is the man without the woman, neither the woman without the man, in the Lord."</td>
+    <td id="clue_J_1_3_r" class="clue_text" style="display:none;"><em class="correct_response">1 Corinthians 11:11</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -389,8 +389,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_2_3" class="clue_text">They're the Giants' cross-bay rivals</td>
-    <td id="clue_J_2_3_r" class="clue_text" style="display:none;"><em class="correct_response">the Oakland A's</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_2_3" class="clue_text">1 Peter 4:6</td>
+    <td id="clue_J_2_3_r" class="clue_text" style="display:none;"><em class="correct_response">"The gospel [was] preached also to them that are dead."</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -410,8 +410,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_3_3" class="clue_text">Cook boneless this fowl until the internal temp is 165 degrees; that's a rough day for a capon</td>
-    <td id="clue_J_3_3_r" class="clue_text" style="display:none;"><em class="correct_response">a hen (chicken)</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_3_3" class="clue_text">This high school lacrosse star's unique scoring technique was dubbed "the Rony" by her biggest fans.</td>
+    <td id="clue_J_3_3_r" class="clue_text" style="display:none;"><em class="correct_response">Maya Peterson</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -431,8 +431,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_4_3" class="clue_text">Separate states until 1964, Tanganyika &amp; Zanzibar combined to form this country</td>
-    <td id="clue_J_4_3_r" class="clue_text" style="display:none;"><em class="correct_response">Tanzania</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_4_3" class="clue_text">A cosmopoliton, cross-roads, port city about 50 miles west of Athens.</td>
+    <td id="clue_J_4_3_r" class="clue_text" style="display:none;"><em class="correct_response">Corinth</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -452,8 +452,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_5_3" class="clue_text">This metal was discovered in 1789; it took until 1896 to find out that it was radioactive</td>
-    <td id="clue_J_5_3_r" class="clue_text" style="display:none;"><em class="correct_response">uranium</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_5_3" class="clue_text">The chief apostle.</td>
+    <td id="clue_J_5_3_r" class="clue_text" style="display:none;"><em class="correct_response">Peter</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -473,8 +473,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_6_3" class="clue_text">The opposite of staccato, it's a direction to play music smoothly</td>
-    <td id="clue_J_6_3_r" class="clue_text" style="display:none;"><em class="correct_response"><i>legato</i></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_6_3" class="clue_text">"Your body is the ______ of the Holy Ghost"</td>
+    <td id="clue_J_6_3_r" class="clue_text" style="display:none;"><em class="correct_response">temple</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -496,8 +496,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_1_4" class="clue_text">Will you sign my copy of  the "Domesday Book"   you commissioned, my king? It's a first edition  from 1086</td>
-    <td id="clue_J_1_4_r" class="clue_text" style="display:none;">(Ken: The answer there is the Daily Double.)<br />[Applause]<br />(Jilana: I thought it might be there.)<br /><br /><em class="correct_response">William the Conqueror</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_1_4" class="clue_text">"In the Resurrection, there are three degrees of glory."</td>
+    <td id="clue_J_1_4_r" class="clue_text" style="display:none;"><em class="correct_response">1 Corinthians 15:40-42</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -517,8 +517,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_2_4" class="clue_text">This nickname of a Texas school's teams comes from the "A" in "A&M"</td>
-    <td id="clue_J_2_4_r" class="clue_text" style="display:none;"><em class="correct_response">the Aggies</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_2_4" class="clue_text">Ephesians 2:19-20</td>
+    <td id="clue_J_2_4_r" class="clue_text" style="display:none;"><em class="correct_response">The Church is "built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone."</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -538,8 +538,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_3_4" class="clue_text">To really like something, or a finely chopped sweet pickle on a hot dog</td>
-    <td id="clue_J_3_4_r" class="clue_text" style="display:none;"><em class="correct_response">relish</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_3_4" class="clue_text">On the b-ball court she's feared by defenders for her unusual technique of singing opponents into complacency before unleashing a deadly-accurate jump shot.</td>
+    <td id="clue_J_3_4_r" class="clue_text" style="display:none;"><em class="correct_response"> <BR>Bella Breillatt</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -559,8 +559,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_4_4" class="clue_text"><a href="https://www.j-archive.com/media/2023-11-08_J_07.jpg" target="_blank">Here</a> is a map of this former country in 1945; <a href="https://www.j-archive.com/media/2023-11-08_J_07a.jpg" target="_blank">now</a> the region today</td>
-    <td id="clue_J_4_4_r" class="clue_text" style="display:none;"><em class="correct_response">Czechoslovakia</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_4_4" class="clue_text">Paul left Titus to set the church in order on this Greek island./td>
+    <td id="clue_J_4_4_r" class="clue_text" style="display:none;"><em class="correct_response">Crete<</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -580,8 +580,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_5_4" class="clue_text">Zr is the symbol for this chemical element used as a structural material in nuclear reactors</td>
-    <td id="clue_J_5_4_r" class="clue_text" style="display:none;"><em class="correct_response">zirconium</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_J_5_4" class="clue_text">One of Paul's two missionary companions whose name starts with "T".</td>
+    <td id="clue_J_5_4_r" class="clue_text" style="display:none;"><em class="correct_response">Timothy or Titus</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -601,8 +601,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_6_4" class="clue_text">W.S. Gilbert wrote it for "The Mikado"</td>
-    <td id="clue_J_6_4_r" class="clue_text" style="display:none;"><em class="correct_response">libretto</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_6_4" class="clue_text">Heavenly Father is "the Father of _______."</td>
+    <td id="clue_J_6_4_r" class="clue_text" style="display:none;"><em class="correct_response">spirits</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -624,8 +624,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_1_5" class="clue_text">You got the Eastern Roman Empire to pay a ton of gold per year! Will you speak to our "Scourge of God" fan club?</td>
-    <td id="clue_J_1_5_r" class="clue_text" style="display:none;">(Aaron: Who is Constantine?)<br /><br /><em class="correct_response">Attila the Hun</em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_J_1_5" class="clue_text">"The day of Christ … shall not come, except there come a falling away first."</td>
+    <td id="clue_J_1_5_r" class="clue_text" style="display:none;"><em class="correct_response">Thessalonians 2:1-3</em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -645,8 +645,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_2_5" class="clue_text">Sing a little song &amp; tell us this nickname of Montreal's Canadian Football League team</td>
-    <td id="clue_J_2_5_r" class="clue_text" style="display:none;">[Emily said it like the song name and not the team name.]<br /><br /><em class="correct_response">the Alouettes</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_2_5" class="clue_text">Ephesians 1:10</td>
+    <td id="clue_J_2_5_r" class="clue_text" style="display:none;"><em class="correct_response">"In the dispensation of the fulness of times he might gather together in one all things in Christ."</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -666,8 +666,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_3_5" class="clue_text">Gray &amp; red-legged are 2 varieties of this game bird that can be roasted, broiled or braised; you, in the pear tree! Hide!</td>
-    <td id="clue_J_3_5_r" class="clue_text" style="display:none;"><em class="correct_response">a partridge</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_3_5" class="clue_text">Instead of stand trial in Jerusalem, Paul chose to have his trial in Rome, in front of the Roman Emperor Nero, which was his right to do because he was this.</td>
+    <td id="clue_J_3_5_r" class="clue_text" style="display:none;"><em class="correct_response">A Roman citizen</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -687,8 +687,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_4_5" class="clue_text">Since 1964 the former Northern Rhodesia has been this, now second from the end alphabetically</td>
-    <td id="clue_J_4_5_r" class="clue_text" style="display:none;"><em class="correct_response">Zambia</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_4_5" class="clue_text">John wrote the book of Revelation here.</td>
+    <td id="clue_J_4_5_r" class="clue_text" style="display:none;"><em class="correct_response">The Isle of Patmos</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -708,8 +708,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_5_5" class="clue_text">A policeman could tell you the U.S. half dollar today is about 92% this metal</td>
-    <td id="clue_J_5_5_r" class="clue_text" style="display:none;"><em class="correct_response">copper</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_J_5_5" class="clue_text">One of the couple who were tentmakers with Paul in Corinth.</td>
+    <td id="clue_J_5_5_r" class="clue_text" style="display:none;"><em class="correct_response">Priscilla or Aquila</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -729,8 +729,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_6_5" class="clue_text">If you run into this word on a menu, relax, it's just Spanish for "prawn"</td>
-    <td id="clue_J_6_5_r" class="clue_text" style="display:none;"><em class="correct_response"><i>langostino</i></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_J_6_5" class="clue_text">"The scriptures are able to make thee ____ unto salvation."</td>
+    <td id="clue_J_6_5_r" class="clue_text" style="display:none;"><em class="correct_response">wise</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -832,7 +832,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_1_1" class="clue_text">The collarbone, more technically known as this, is part of the pectoral girdle</td>
-    <td id="clue_DJ_1_1_r" class="clue_text" style="display:none;"><em class="correct_response">the clavicle</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_1_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -853,7 +853,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_2_1" class="clue_text">This 1973 horror classic had Linda Blair take an extended look around</td>
-    <td id="clue_DJ_2_1_r" class="clue_text" style="display:none;"><em class="correct_response"><i>The Exorcist</i></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_2_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -874,7 +874,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_3_1" class="clue_text">Popular with nutritionists, the brown type of this is intentionally left unmilled</td>
-    <td id="clue_DJ_3_1_r" class="clue_text" style="display:none;"><em class="correct_response">rice</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_3_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -895,7 +895,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_4_1" class="clue_text">This London landmark is the final resting place of 17 monarchs</td>
-    <td id="clue_DJ_4_1_r" class="clue_text" style="display:none;"><em class="correct_response">Westminster Abbey</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_4_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -916,7 +916,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_5_1" class="clue_text">This 1963 work was published in England with the title "Monkey Planet"</td>
-    <td id="clue_DJ_5_1_r" class="clue_text" style="display:none;"><em class="correct_response"><i>Planet of the Apes</i></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_5_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -937,7 +937,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_6_1" class="clue_text">Really gnarly, or a group of 12 dozen</td>
-    <td id="clue_DJ_6_1_r" class="clue_text" style="display:none;"><em class="correct_response">gross</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_6_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -960,7 +960,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_1_2" class="clue_text">This part seen <a href="https://www.j-archive.com/media/2023-11-08_DJ_20.jpg" target="_blank">here</a> is often transplanted</td>
-    <td id="clue_DJ_1_2_r" class="clue_text" style="display:none;"><em class="correct_response">the cornea</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_1_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -981,7 +981,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_2_2" class="clue_text">Whitney Houston's version of "I Will Always Love You" is from this film</td>
-    <td id="clue_DJ_2_2_r" class="clue_text" style="display:none;"><em class="correct_response"><i>The Bodyguard</i></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_2_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1002,7 +1002,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_3_2" class="clue_text">In 1900 this company introduced the Brownie camera, making photography accessible to the masses</td>
-    <td id="clue_DJ_3_2_r" class="clue_text" style="display:none;"><em class="correct_response">Kodak</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_3_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1023,7 +1023,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_4_2" class="clue_text">The Great War was a most unpleasant disruption for the Crawley family &amp; their servants on this PBS show</td>
-    <td id="clue_DJ_4_2_r" class="clue_text" style="display:none;"><em class="correct_response"><i>Downton Abbey</i></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_4_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1044,7 +1044,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_5_2" class="clue_text">At the end of Arthur C. Clarke's "Childhood's End" this world is destroyed</td>
-    <td id="clue_DJ_5_2_r" class="clue_text" style="display:none;">(Ken: Bad news for all three of you; it's [*].)<br />[Laughter]<br /><br /><em class="correct_response">the Earth</em><br /><br /><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_5_2_r" class="clue_text" style="display:none;">(Ken: Bad news for all three of you; it's [*].)<br />[Laughter]<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1065,7 +1065,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_6_2" class="clue_text">A baby deer, or to court favor by flattery</td>
-    <td id="clue_DJ_6_2_r" class="clue_text" style="display:none;"><em class="correct_response">fawn</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_6_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1088,7 +1088,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_1_3" class="clue_text">These major neck arteries get their name from the Greek for "to stupefy"</td>
-    <td id="clue_DJ_1_3_r" class="clue_text" style="display:none;"><em class="correct_response">carotid arteries</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_1_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1109,7 +1109,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_2_3" class="clue_text">"The Color of Money" was a sequel to this 1961 movie</td>
-    <td id="clue_DJ_2_3_r" class="clue_text" style="display:none;"><em class="correct_response"><i>The Hustler</i></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_2_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1130,7 +1130,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_3_3" class="clue_text">John Brown's raid on the federal arsenal in this town made him a martyr to the antislavery cause</td>
-    <td id="clue_DJ_3_3_r" class="clue_text" style="display:none;"><em class="correct_response">Harpers Ferry</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_3_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1151,7 +1151,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_4_3" class="clue_text">St. Mary's Abbey in this city lent part of its name to a theatre that W.B. Yeats co-founded</td>
-    <td id="clue_DJ_4_3_r" class="clue_text" style="display:none;">(Ken: That's correct, the Abbey Theatre.)<br /><br /><em class="correct_response">Dublin</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_4_3_r" class="clue_text" style="display:none;">(Ken: That's correct, the Abbey Theatre.)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1172,7 +1172,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_5_3" class="clue_text">Anne McCaffrey's written about "The Dragonriders of", "The Skies of" &amp; "The Renegades of" this imaginary planet</td>
-    <td id="clue_DJ_5_3_r" class="clue_text" style="display:none;"><em class="correct_response">Pern</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_5_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1193,7 +1193,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_6_3" class="clue_text">A long spear, a freshwater fish, or a diving position</td>
-    <td id="clue_DJ_6_3_r" class="clue_text" style="display:none;"><em class="correct_response">a pike</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_6_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1216,7 +1216,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_1_4" class="clue_text">It's Latin for "neck" &amp; can mean the neck as well as the outer end of the uterus</td>
-    <td id="clue_DJ_1_4_r" class="clue_text" style="display:none;"><em class="correct_response">the cervix</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_1_4_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1237,7 +1237,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_2_4" class="clue_text">As this film ends Dustin Hoffman &amp; Katharine Ross sit on a bus in eerie silence</td>
-    <td id="clue_DJ_2_4_r" class="clue_text" style="display:none;"><em class="correct_response"><i>The Graduate</i></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_2_4_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1258,7 +1258,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_3_4" class="clue_text">The Cobb salad was invented at this Hollywood restaurant named for a hat</td>
-    <td id="clue_DJ_3_4_r" class="clue_text" style="display:none;"><em class="correct_response">the Brown Derby</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_3_4_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1279,7 +1279,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_4_4" class="clue_text">The legend of this liqueur says a monk invented it in 1510 at the Abbey of Fécamp</td>
-    <td id="clue_DJ_4_4_r" class="clue_text" style="display:none;"><em class="correct_response">Benedictine</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_4_4_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1300,7 +1300,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_5_4" class="clue_text">It's the real name of the planet referred to in the title of a 1965 Frank Herbert novel</td>
-    <td id="clue_DJ_5_4_r" class="clue_text" style="display:none;">(Aaron: Uh...)<br />(Ken: Aaron?)<br />(Aaron: What is Dune?)<br />(Ken: <i>Dune</i> is the name of the novel; unfortunately, the real name of the planet is [*].)<br /><br /><em class="correct_response">Arrakis</em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table></td>
+    <td id="clue_DJ_5_4_r" class="clue_text" style="display:none;">(Aaron: Uh...)<br />(Ken: Aaron?)<br />(Aaron: What is Dune?)<br />(Ken: <i>Dune</i> is the name of the novel; unfortunately, the real name of the planet is [*].)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1321,7 +1321,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_6_4" class="clue_text">Polite &amp; friendly, or maybe an amaretto</td>
-    <td id="clue_DJ_6_4_r" class="clue_text" style="display:none;">(Emily: Oh.)<br />(Ken: It just occurred to Emily, I think.)<br /><br /><em class="correct_response">cordial</em><br /><br /><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_6_4_r" class="clue_text" style="display:none;">(Emily: Oh.)<br />(Ken: It just occurred to Emily, I think.)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1344,7 +1344,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_1_5" class="clue_text">If your left brain hemisphere needs to "cc" your right, it's a good thing they're connected by <a href="https://www.j-archive.com/media/2023-11-08_DJ_19.jpg" target="_blank">this</a> "cc"</td>
-    <td id="clue_DJ_1_5_r" class="clue_text" style="display:none;">(Aaron: What is the cerebral cortex?)<br />(Emily: What is the corpus coluskum?)<br />[Emily ruled correct; reversed after the break]<br /><br /><em class="correct_response">corpus callosum</em><br /><br /><table width="100%"><tr><td class="wrong">Emily</td><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_1_5_r" class="clue_text" style="display:none;">(Aaron: What is the cerebral cortex?)<br />(Emily: What is the corpus coluskum?)<br />[Emily ruled correct; reversed after the break]<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Emily</td><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1365,7 +1365,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_2_5" class="clue_text">The Hong Kong police thriller &amp; cult film "Infernal Affairs" was remade as this Oscar winner starring Leo DiCaprio</td>
-    <td id="clue_DJ_2_5_r" class="clue_text" style="display:none;"><em class="correct_response"><i>The Departed</i></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_2_5_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1386,7 +1386,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_3_5" class="clue_text">The Cortland variety of these brown very slowly after they're cut, making them a good choice for garnishes</td>
-    <td id="clue_DJ_3_5_r" class="clue_text" style="display:none;">(Aaron: What are potatoes?)<br /><br /><em class="correct_response">apples</em><br /><br /><table width="100%"><tr><td class="right">Emily</td><td class="wrong">Aaron</td></tr></table></td>
+    <td id="clue_DJ_3_5_r" class="clue_text" style="display:none;">(Aaron: What are potatoes?)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td><td class="wrong">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1407,7 +1407,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_4_5" class="clue_text">Catherine Morland is way into goth in this Jane Austen novel</td>
-    <td id="clue_DJ_4_5_r" class="clue_text" style="display:none;">(Jilana: One of my favorite books.)<br /><br /><em class="correct_response"><i>Northanger Abbey</i></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_4_5_r" class="clue_text" style="display:none;">(Jilana: One of my favorite books.)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1428,7 +1428,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_5_5" class="clue_text">Survivors escape to Bronson Beta in the 1933 Philip Wylie &amp; Edwin Balmer novel "When" this happens</td>
-    <td id="clue_DJ_5_5_r" class="clue_text" style="display:none;">(Aaron: What is <i>When Tomorrow Comes</i>?)<br />...<br />(Ken: Classic pulp novel called <i>When [*]</i>.)<br /><br /><em class="correct_response">Worlds Collide</em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_5_5_r" class="clue_text" style="display:none;">(Aaron: What is <i>When Tomorrow Comes</i>?)<br />...<br />(Ken: Classic pulp novel called <i>When [*]</i>.)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1449,7 +1449,7 @@
   </tr>
   <tr>
     <td id="clue_DJ_6_5" class="clue_text">Strictly accurate, or to demand, as a payment</td>
-    <td id="clue_DJ_6_5_r" class="clue_text" style="display:none;">(Aaron: Uh, what is right?)<br /><br /><em class="correct_response">exact</em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_6_5_r" class="clue_text" style="display:none;">(Aaron: Uh, what is right?)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1495,7 +1495,7 @@
 <table>
   <tr>
     <td id="clue_FJ" class="clue_text">Perhaps inspiring a line 2 centuries later, in 1774 he wrote that he was headed "farther than any other man has been before me"</td>
-    <td id="clue_FJ_r" class="clue_text" style="display:none;">(Ken: That quote, "farther than any other man has been before me" is often said to have inspired, "where no man has gone before" from <i>Star Trek</i><span class="nobreak">--</span>Captain James Kirk named for [*], who was the explorer in question here.)<table><tr><td class="wrong">Emily</td><td rowspan="2" valign="top">Who is Magellan?</td></tr><tr><td>$4,401</td></tr><tr><td class="wrong">Jilana</td><td rowspan="2" valign="top">Who is Lewis?</td></tr><tr><td>$24,000</td></tr></table><em class="correct_response">Captain James Cook</em></td>
+    <td id="clue_FJ_r" class="clue_text" style="display:none;">(Ken: That quote, "farther than any other man has been before me" is often said to have inspired, "where no man has gone before" from <i>Star Trek</i><span class="nobreak">--</span>Captain James Kirk named for [*], who was the explorer in question here.)<table><tr><td class="wrong">Emily</td><td rowspan="2" valign="top">Who is Magellan?</td></tr><tr><td>$4,401</td></tr><tr><td class="wrong">Jilana</td><td rowspan="2" valign="top">Who is Lewis?</td></tr><tr><td>$24,000</td></tr></table><em class="correct_response"></em></td>
   </tr>
 </table>
 <var id="clue_FJ_stuck"></var>
