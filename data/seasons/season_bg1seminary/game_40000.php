@@ -559,7 +559,7 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_J_4_4" class="clue_text">Paul left Titus to set the church in order on this Greek island./td>
+    <td id="clue_J_4_4" class="clue_text">Paul left Titus to set the church in order on this Greek island.</td>
     <td id="clue_J_4_4_r" class="clue_text" style="display:none;"><em class="correct_response">Crete<</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
@@ -774,42 +774,42 @@
     <td class="category">
       
 <table>
-  <tr><td class="category_name">A "C" IN ANATOMY</td></tr>
+  <tr><td class="category_name">PASSAGES</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">"THE" MOVIE</td></tr>
+  <tr><td class="category_name">KEY PHRASES</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">ENCYCLOPEDIA BROWN</td></tr>
+  <tr><td class="category_name">GRAB BAG</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">DEAR ABBEY</td></tr>
+  <tr><td class="category_name">TEACHINGS</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">AT A LOSS FOR WORLDS</td></tr>
+  <tr><td class="category_name">PEOPLE</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
     <td class="category">
       
 <table>
-  <tr><td class="category_name">MORE THAN ONE MEANING</td></tr>
+  <tr><td class="category_name">FILL IN THE BLANK</td></tr>
   <tr><td class="category_comments"></td></tr>
 </table>
     </td>
@@ -831,8 +831,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_1_1" class="clue_text">The collarbone, more technically known as this, is part of the pectoral girdle</td>
-    <td id="clue_DJ_1_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_1_1" class="clue_text">"Your body is the temple of the Holy Ghost."</td>
+    <td id="clue_DJ_1_1_r" class="clue_text" style="display:none;"><em class="correct_response">1 Corinthians 6:19-20</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -852,8 +852,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_2_1" class="clue_text">This 1973 horror classic had Linda Blair take an extended look around</td>
-    <td id="clue_DJ_2_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_2_1" class="clue_text">James 1:5-6</td>
+    <td id="clue_DJ_2_1_r" class="clue_text" style="display:none;"><em class="correct_response">"If any of you lack wisdom, let him ask of God."</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -873,8 +873,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_3_1" class="clue_text">Popular with nutritionists, the brown type of this is intentionally left unmilled</td>
-    <td id="clue_DJ_3_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_3_1" class="clue_text">"Spiritual ____ are blessings or abilities given by God to His children through the power of the Holy Ghost" </td>
+    <td id="clue_DJ_3_1_r" class="clue_text" style="display:none;"><em class="correct_response">gifts</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -894,8 +894,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_4_1" class="clue_text">This London landmark is the final resting place of 17 monarchs</td>
-    <td id="clue_DJ_4_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_4_1" class="clue_text">There are also celestial bodies, and bodies ___________</td>
+    <td id="clue_DJ_4_1_r" class="clue_text" style="display:none;"><em class="correct_response">terrestrial</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -915,8 +915,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_5_1" class="clue_text">This 1963 work was published in England with the title "Monkey Planet"</td>
-    <td id="clue_DJ_5_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_5_1" class="clue_text">"Peter, Peter, ____, ____, ___, Jude, Revelation"</td>
+    <td id="clue_DJ_5_1_r" class="clue_text" style="display:none;"><em class="correct_response">John, John, John</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -936,8 +936,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_6_1" class="clue_text">Really gnarly, or a group of 12 dozen</td>
-    <td id="clue_DJ_6_1_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_6_1" class="clue_text">The Church is "built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief ______ _____."</td>
+    <td id="clue_DJ_6_1_r" class="clue_text" style="display:none;"><em class="correct_response">corner stone</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -959,8 +959,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_1_2" class="clue_text">This part seen <a href="https://www.j-archive.com/media/2023-11-08_DJ_20.jpg" target="_blank">here</a> is often transplanted</td>
-    <td id="clue_DJ_1_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_1_2" class="clue_text">"The holy scriptures … are able to make thee wise unto salvation."</td>
+    <td id="clue_DJ_1_2_r" class="clue_text" style="display:none;"><em class="correct_response">2 Timothy 3:15-17</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -980,8 +980,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_2_2" class="clue_text">Whitney Houston's version of "I Will Always Love You" is from this film</td>
-    <td id="clue_DJ_2_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_2_2" class="clue_text">1 Corinthians 15:40-42</td>
+    <td id="clue_DJ_2_2_r" class="clue_text" style="display:none;"><em class="correct_response">"In the Resurrection, there are three degrees of glory."</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1001,8 +1001,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_3_2" class="clue_text">In 1900 this company introduced the Brownie camera, making photography accessible to the masses</td>
-    <td id="clue_DJ_3_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_3_2" class="clue_text">Principles of acquiring spiritual knowledge: 1. ___ in _____</td>
+    <td id="clue_DJ_3_2_r" class="clue_text" style="display:none;"><em class="correct_response">Act in faith</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1022,8 +1022,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_4_2" class="clue_text">The Great War was a most unpleasant disruption for the Crawley family &amp; their servants on this PBS show</td>
-    <td id="clue_DJ_4_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_4_2" class="clue_text">My dear brothers and sisters, the joy we feel has little to do with the circumstances of our lives and everything to do with the _____ of our lives.</td>
+    <td id="clue_DJ_4_2_r" class="clue_text" style="display:none;"><em class="correct_response">focus</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1043,8 +1043,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_5_2" class="clue_text">At the end of Arthur C. Clarke's "Childhood's End" this world is destroyed</td>
-    <td id="clue_DJ_5_2_r" class="clue_text" style="display:none;">(Ken: Bad news for all three of you; it's [*].)<br />[Laughter]<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_5_2" class="clue_text">First name of Sister Reynolds who is serving a full-time mission in Fresno, CA.</td>
+    <td id="clue_DJ_5_2_r" class="clue_text" style="display:none;"><em class="correct_response">Emily</em><br /><br /><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1064,8 +1064,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_6_2" class="clue_text">A baby deer, or to court favor by flattery</td>
-    <td id="clue_DJ_6_2_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_6_2" class="clue_text">1 Corinthians 15:__ - __ "As in Adam all die, even so in Christ shall all be made alive."</td>
+    <td id="clue_DJ_6_2_r" class="clue_text" style="display:none;"><em class="correct_response">20-22</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1087,8 +1087,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_1_3" class="clue_text">These major neck arteries get their name from the Greek for "to stupefy"</td>
-    <td id="clue_DJ_1_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_1_3" class="clue_text">"In the dispensation of the fulness of times he might gather together in one all things in Christ."</td>
+    <td id="clue_DJ_1_3_r" class="clue_text" style="display:none;"><em class="correct_response">Ephesians 1:10</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1108,8 +1108,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_2_3" class="clue_text">"The Color of Money" was a sequel to this 1961 movie</td>
-    <td id="clue_DJ_2_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_2_3" class="clue_text">Hebrews 12:9</td>
+    <td id="clue_DJ_2_3_r" class="clue_text" style="display:none;"><em class="correct_response">Heavenly Father is "the Father of spirits."</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1129,8 +1129,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_3_3" class="clue_text">John Brown's raid on the federal arsenal in this town made him a martyr to the antislavery cause</td>
-    <td id="clue_DJ_3_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_3_3" class="clue_text">This classically-trained pianist's mantra is, "an abundance of speaking is as effective at making one wise as eating skittles for breakfast".</td>
+    <td id="clue_DJ_3_3_r" class="clue_text" style="display:none;"><em class="correct_response">Tanner Bowman</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1150,8 +1150,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_4_3" class="clue_text">St. Mary's Abbey in this city lent part of its name to a theatre that W.B. Yeats co-founded</td>
-    <td id="clue_DJ_4_3_r" class="clue_text" style="display:none;">(Ken: That's correct, the Abbey Theatre.)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_4_3" class="clue_text">Godly sorrow means to feel profound sadness and remorse for behavior that added pain and suffering to the ______</td>
+    <td id="clue_DJ_4_3_r" class="clue_text" style="display:none;"><em class="correct_response">Savior</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1171,8 +1171,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_5_3" class="clue_text">Anne McCaffrey's written about "The Dragonriders of", "The Skies of" &amp; "The Renegades of" this imaginary planet</td>
-    <td id="clue_DJ_5_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_5_3" class="clue_text">Practicing "umbrella-assisted self-levitation" is the latest example of this stage star's storied adherance to Method Acting techniques.</td>
+    <td id="clue_DJ_5_3_r" class="clue_text" style="display:none;"><em class="correct_response">Kaylee Reynolds</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1192,8 +1192,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_6_3" class="clue_text">A long spear, a freshwater fish, or a diving position</td>
-    <td id="clue_DJ_6_3_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_6_3" class="clue_text">Develop the skill of learning by what you see and particularly by what the Holy Ghost prompts you to ____. (Richard G. Scott)</td>
+    <td id="clue_DJ_6_3_r" class="clue_text" style="display:none;"><em class="correct_response">feel</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1215,8 +1215,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_1_4" class="clue_text">It's Latin for "neck" &amp; can mean the neck as well as the outer end of the uterus</td>
-    <td id="clue_DJ_1_4_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_1_4" class="clue_text">"Faith, if it hath not works, is dead."</td>
+    <td id="clue_DJ_1_4_r" class="clue_text" style="display:none;"><em class="correct_response">James 2:17-18</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1236,8 +1236,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_2_4" class="clue_text">As this film ends Dustin Hoffman &amp; Katharine Ross sit on a bus in eerie silence</td>
-    <td id="clue_DJ_2_4_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_2_4" class="clue_text">1 Corinthians 11:11</td>
+    <td id="clue_DJ_2_4_r" class="clue_text" style="display:none;"><em class="correct_response">"Neither is the man without the woman, neither the woman without the man, in the Lord."</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1257,8 +1257,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_3_4" class="clue_text">The Cobb salad was invented at this Hollywood restaurant named for a hat</td>
-    <td id="clue_DJ_3_4_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
+    <td id="clue_DJ_3_4" class="clue_text">"Rebuilding an internal-combustion engine is a piece of cake compared to waiting for someone to order a piece of cake", quipped this BHS engineering standout.</td>
+    <td id="clue_DJ_3_4_r" class="clue_text" style="display:none;"><em class="correct_response">Seth Reynolds</em><br /><br /><table width="100%"><tr><td class="right">Emily</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1278,8 +1278,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_4_4" class="clue_text">The legend of this liqueur says a monk invented it in 1510 at the Abbey of Fécamp</td>
-    <td id="clue_DJ_4_4_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_4_4" class="clue_text">Let us therefore come ______ unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.</td>
+    <td id="clue_DJ_4_4_r" class="clue_text" style="display:none;"><em class="correct_response">boldly</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1299,8 +1299,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_5_4" class="clue_text">It's the real name of the planet referred to in the title of a 1965 Frank Herbert novel</td>
-    <td id="clue_DJ_5_4_r" class="clue_text" style="display:none;">(Aaron: Uh...)<br />(Ken: Aaron?)<br />(Aaron: What is Dune?)<br />(Ken: <i>Dune</i> is the name of the novel; unfortunately, the real name of the planet is [*].)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table></td>
+    <td id="clue_DJ_5_4" class="clue_text">This avid angler is known as the "Flint Creek Hero" among sports aficionados of the greater Barrington area.</td>
+    <td id="clue_DJ_5_4_r" class="clue_text" style="display:none;"><em class="correct_response">Ethan Reynolds</em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1320,8 +1320,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_6_4" class="clue_text">Polite &amp; friendly, or maybe an amaretto</td>
-    <td id="clue_DJ_6_4_r" class="clue_text" style="display:none;">(Emily: Oh.)<br />(Ken: It just occurred to Emily, I think.)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_6_4" class="clue_text">Eye hath not seen, nor ear heard, ..., the things which God hath prepared for them that ____ ___. (1 Corinthians 2:9)</td>
+    <td id="clue_DJ_6_4_r" class="clue_text" style="display:none;"><em class="correct_response">love him</em><br /><br /><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1343,8 +1343,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_1_5" class="clue_text">If your left brain hemisphere needs to "cc" your right, it's a good thing they're connected by <a href="https://www.j-archive.com/media/2023-11-08_DJ_19.jpg" target="_blank">this</a> "cc"</td>
-    <td id="clue_DJ_1_5_r" class="clue_text" style="display:none;">(Aaron: What is the cerebral cortex?)<br />(Emily: What is the corpus coluskum?)<br />[Emily ruled correct; reversed after the break]<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Emily</td><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_1_5" class="clue_text">"And the dead were judged … according to their works."</td>
+    <td id="clue_DJ_1_5_r" class="clue_text" style="display:none;"><em class="correct_response">Revelation 20:12</em><br /><br /><table width="100%"><tr><td class="wrong">Emily</td><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1364,8 +1364,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_2_5" class="clue_text">The Hong Kong police thriller &amp; cult film "Infernal Affairs" was remade as this Oscar winner starring Leo DiCaprio</td>
-    <td id="clue_DJ_2_5_r" class="clue_text" style="display:none;"><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
+    <td id="clue_DJ_2_5" class="clue_text">2 Thessalonians 2:1-3</td>
+    <td id="clue_DJ_2_5_r" class="clue_text" style="display:none;"><em class="correct_response">"The day of Christ … shall not come, except there come a falling away first."</em><br /><br /><table width="100%"><tr><td class="right">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1385,8 +1385,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_3_5" class="clue_text">The Cortland variety of these brown very slowly after they're cut, making them a good choice for garnishes</td>
-    <td id="clue_DJ_3_5_r" class="clue_text" style="display:none;">(Aaron: What are potatoes?)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td><td class="wrong">Aaron</td></tr></table></td>
+    <td id="clue_DJ_3_5" class="clue_text">Once a year, on the Day of Atonement, the high priest performed special animal sacrifices before entering this portion of the tabernacle.</td>
+    <td id="clue_DJ_3_5_r" class="clue_text" style="display:none;">(Aaron: What are potatoes?)<br /><br />the most holy place or the Holy of Holies<em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Emily</td><td class="wrong">Aaron</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1406,8 +1406,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_4_5" class="clue_text">Catherine Morland is way into goth in this Jane Austen novel</td>
-    <td id="clue_DJ_4_5_r" class="clue_text" style="display:none;">(Jilana: One of my favorite books.)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
+    <td id="clue_DJ_4_5" class="clue_text">Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding _____, or a tinkling ______.</td>
+    <td id="clue_DJ_4_5_r" class="clue_text" style="display:none;"><em class="correct_response">brass, cymbal</em><br /><br /><table width="100%"><tr><td class="right">Jilana</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1427,8 +1427,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_5_5" class="clue_text">Survivors escape to Bronson Beta in the 1933 Philip Wylie &amp; Edwin Balmer novel "When" this happens</td>
-    <td id="clue_DJ_5_5_r" class="clue_text" style="display:none;">(Aaron: What is <i>When Tomorrow Comes</i>?)<br />...<br />(Ken: Classic pulp novel called <i>When [*]</i>.)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_5_5" class="clue_text">Worthy is the ____ (Revelation 5:12).</td>
+    <td id="clue_DJ_5_5_r" class="clue_text" style="display:none;"><em class="correct_response">The Lamb</em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
@@ -1448,8 +1448,8 @@
     </td>
   </tr>
   <tr>
-    <td id="clue_DJ_6_5" class="clue_text">Strictly accurate, or to demand, as a payment</td>
-    <td id="clue_DJ_6_5_r" class="clue_text" style="display:none;">(Aaron: Uh, what is right?)<br /><br /><em class="correct_response"></em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
+    <td id="clue_DJ_6_5" class="clue_text">Fathers and mothers are obligated to help one another as _____ partners.</td>
+    <td id="clue_DJ_6_5_r" class="clue_text" style="display:none;"><em class="correct_response">equal</em><br /><br /><table width="100%"><tr><td class="wrong">Aaron</td></tr></table><table width="100%"><tr><td class="wrong">Triple Stumper</td></tr></table></td>
   </tr>
 </table>
     </td>
