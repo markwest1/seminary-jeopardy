@@ -2,6 +2,9 @@
   "name": "application-name",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "build": "rimraf public/dist && webpack --bail --progress --profile"
+  },
   "dependencies": {
     "angular": "~1.4.4",
     "angular-bootstrap": "~0.12.2",
@@ -26,6 +29,7 @@
     "rimraf": "^5.0.5",
     "ts-loader": "^9.5.1",
     "typescript": "^5.3.3",
-    "webpack": "^5.89.0"
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
   }
 }
