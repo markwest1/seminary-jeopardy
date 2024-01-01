@@ -1,6 +1,7 @@
 module.exports = {
   entry: "./public/app/main.ts",
-  output: { filename: "./public/dist/bundle.js" },
+  mode: "development",
+  output: { filename: "./bundle.js" },
   resolve: {
     extensions: [".webpack.js", ".web.js", ".ts", ".tsx", ".js"],
   },

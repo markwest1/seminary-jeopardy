@@ -1,9 +1,14 @@
 {
+  "browser": {
+    "fs": false,
+    "path": false,
+    "os": false
+  },
   "name": "application-name",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "rimraf public/dist && webpack --bail --progress --profile"
+    "build": "rimraf dist && webpack --bail --progress --profile"
   },
   "dependencies": {
     "angular": "~1.4.4",

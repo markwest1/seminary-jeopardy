@@ -1,4 +1,3 @@
-import 'socket.io';
 import 'angular';
 import 'angular-bootstrap';
 import 'angular-sanitize';
