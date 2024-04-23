@@ -1,4 +1,5 @@
 'use strict';
+import * as angular from 'angular';
 
 angular.module('myApp.controllers').
   controller('GameCtrl', function ($scope, $modal, response, socket) {

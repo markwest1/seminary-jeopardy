@@ -1,4 +1,5 @@
 "use strict";
+import * as angular from 'angular';
 
 // Declare app level module which depends on filters, and services
 

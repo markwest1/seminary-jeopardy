@@ -1,4 +1,5 @@
 'use strict';
+import * as angular from 'angular';
 
 angular.module('myApp.controllers').
   controller('BoardCtrl', function ($scope, $timeout, $modal, socket, currencyFilter) {
@@ -49,14 +50,14 @@ angular.module('myApp.controllers').
       $scope.game = data.game;
 
       if (data.game.round === 'DJ') {
-        openModal();
+        openModal("Double Jeopardy");
         $timeout(modalInstance.close, 5000);
       }
       else if (data.game.round === 'FJ') {
         $scope.scoreHtml = buildScores();
       }
       else if (data.game.round === 'end') {
-        openModal();
+        openModal("Game Over");
       }
     });
 

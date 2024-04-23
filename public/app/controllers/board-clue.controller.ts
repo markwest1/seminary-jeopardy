@@ -1,4 +1,5 @@
 'use strict';
+import * as angular from 'angular';
 
 angular.module('myApp.controllers').
   controller('BoardClueCtrl', function ($scope, $modalInstance, response, socket) {

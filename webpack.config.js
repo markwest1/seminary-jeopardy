@@ -6,6 +6,9 @@ module.exports = {
     extensions: [".webpack.js", ".web.js", ".ts", ".tsx", ".js"],
   },
   module: {
-    rules: [{ test: /\.tsx?$/, loader: "ts-loader" }],
+    rules: [
+      { test: /\.tsx?$/, loader: "ts-loader" },
+      { test: /\.jade$/, loader: "jade" },
+    ],
   },
 };
